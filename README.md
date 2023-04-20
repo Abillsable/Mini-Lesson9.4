@@ -11,7 +11,7 @@ Include a list of the tools used in the project:
 3. Matplotlib
    
 <a class="anchor" id="contact"></a>
->## Contac Information
+>## Contact Information
 [BillGates](https://www.linkedin.com/in/williamhgates/detail/recent-activity/posts/)
 [@BillGates](https://twitter.com/BillGates) - Twitter
 >## Table of Contents Example
